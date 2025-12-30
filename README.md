@@ -285,7 +285,7 @@ App.vue (主布局)
 
 ## 📧 联系我们
 
-- **官网**：https://www.buidai.cn
+- **官网**：https://www.buidai.com
 - **邮箱**：buidai@outlook.com
 - **团队**：BuidAI Team
 
