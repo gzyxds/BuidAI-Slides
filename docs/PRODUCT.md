@@ -18,7 +18,7 @@
 
 ## 体验地址
 *   **GitHub**: [Coming Soon]
-*   **BuidAI 官网**: https://langchain.cn
+*   **BuidAI 官网**: https://www.buidai.com
 
 ---
 *Powered by BuidAI Team*
