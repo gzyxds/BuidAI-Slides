@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-[官网](https://www.buidai.com) · [在线预览](https://slides.buidai.com) · [文档](docs) · [GitHub](https://github.com/langchat) · [报告问题](mailto:langchat@outlook.com)
+[官网](https://www.buidai.com) · [在线预览](https://slides.buidai.com) · [文档](docs) · [GitHub](https://github.com/buidai/buidai-slides) · [报告问题](mailto:buidai@outlook.com)
 
 **[English README](README.md)** | **[🇨🇳 中文文档](README_CN.md)**
 
@@ -33,9 +33,9 @@
 
 **开源版地址**: https://github.com/buidai/buidai-pro (基础功能体验)
 
-**商业版咨询**: 添加微信 **BuidAIChat** (备注:公司名称 + [具体咨询内容])
+**商业版咨询**: 添加微信 **userhlc** (备注:公司名称 + [具体咨询内容])
 
-![workflows](docs/workflows.jpg)
+![workflows](docs/image.png)
 
 ## ✨ 核心特性
 

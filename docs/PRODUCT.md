@@ -1,7 +1,7 @@
-# LangChat Slides - 新一代 AI 幻灯片生成器
+# BuidAI Slides - 新一代 AI 幻灯片生成器
 
 ## 产品简介
-**LangChat Slides** 是一款基于生成式 AI 的智能幻灯片生成工具。利用 LangChat 的强大模型能力与 `@antv/infographic` 的可视化引擎，用户只需输入自然语言描述，即可实时生成结构清晰、设计精美的信息图幻灯片。
+**BuidAI Slides** 是一款基于生成式 AI 的智能幻灯片生成工具。利用 BuidAI 的强大模型能力与 `@antv/infographic` 的可视化引擎，用户只需输入自然语言描述，即可实时生成结构清晰、设计精美的信息图幻灯片。
 
 ## 核心亮点
 
@@ -18,7 +18,7 @@
 
 ## 体验地址
 *   **GitHub**: [Coming Soon]
-*   **LangChat 官网**: https://langchain.cn
+*   **BuidAI 官网**: https://langchain.cn
 
 ---
-*Powered by LangChat Team*
+*Powered by BuidAI Team*

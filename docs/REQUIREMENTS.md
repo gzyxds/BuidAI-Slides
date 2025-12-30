@@ -1,7 +1,7 @@
-# LangChat Slides - 需求分析与实施文档
+# BuidAI Slides - 需求分析与实施文档
 
 ## 1. 项目概述
-本项目 "LangChat Slides" 旨在利用 AI (OpenAI) 的能力，将自然语言转化为基于 `@antv/infographic` 语法的结构化数据，从而动态生成精美的幻灯片（信息图）。项目采用纯前端架构，利用 Vue 3 + Tailwind CSS + shadcn-vue 构建现代化 UI。
+本项目 "BuidAI Slides" 旨在利用 AI (OpenAI) 的能力，将自然语言转化为基于 `@antv/infographic` 语法的结构化数据，从而动态生成精美的幻灯片（信息图）。项目采用纯前端架构，利用 Vue 3 + Tailwind CSS + shadcn-vue 构建现代化 UI。
 
 ## 2. 核心功能
 1.  **AI 对话交互**：用户通过自然语言描述幻灯片需求。
