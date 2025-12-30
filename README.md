@@ -111,8 +111,8 @@ langchat-slides/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/langchat/langchat-slides.git
-   cd langchat-slides
+   git clone https://github.com/buidai/buidai-slides.git
+   cd buidai-slides
    ```
 
 2. **安装依赖**
@@ -144,8 +144,8 @@ langchat-slides/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/langchat/langchat-slides.git
-   cd langchat-slides
+   git clone https://github.com/buidai/buidai-slides.git
+   cd buidai-slides
    ```
 
 2. **配置环境变量**
@@ -180,16 +180,16 @@ langchat-slides/
 
 1. **构建 Docker 镜像**
    ```bash
-   docker build -t langchat-slides .
+   docker build -t buidai-slides .
    ```
 
 2. **运行容器**
    ```bash
    docker run -d \
-     --name langchat-slides \
+     --name buidai-slides \
      -p 5173:5173 \
      -e VITE_OPENAI_API_KEY=your-api-key \
-     langchat-slides
+     buidai-slides
    ```
 
 ## 🌐 环境变量配置
@@ -285,9 +285,9 @@ App.vue (主布局)
 
 ## 📧 联系我们
 
-- **官网**：https://www.langchat.cn
-- **邮箱**：langchat@outlook.com
-- **团队**：LangChat Team
+- **官网**：https://www.buidai.cn
+- **邮箱**：buidai@outlook.com
+- **团队**：BuidAI Team
 
 ## 🙏 致谢
 
